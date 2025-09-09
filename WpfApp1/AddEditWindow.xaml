@@ -1,0 +1,32 @@
+﻿<Window x:Class="WpfApp1.AddEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="AddEditWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal">
+                <StackPanel Margin="5,0">
+                    <TextBlock Margin="0,2">ФИО</TextBlock>
+                    <TextBlock Margin="0,2">Дата платежа</TextBlock>
+                    <TextBlock Margin="0,2">Категория платежа</TextBlock>
+                    <TextBlock Margin="0,2">Наименование платежа</TextBlock>
+                    <TextBlock Margin="0,1">Цена</TextBlock>
+                    <TextBlock Margin="0,1">Количество</TextBlock>
+                </StackPanel>
+                <StackPanel Width="150">
+                    <ComboBox SelectedItem="{Binding User}" DisplayMemberPath="FIO" Height="20" x:Name="cbFIO"></ComboBox>
+                    <DatePicker Text="{Binding Date}" x:Name="DatePicker" />
+                    <ComboBox SelectedItem="{Binding Category}" DisplayMemberPath="Name" Height="20" x:Name="cbCategory"></ComboBox>
+                    <TextBox Text="{Binding Name}"></TextBox>
+                    <TextBox Text="{Binding Price}"></TextBox>
+                    <TextBox Text="{Binding Num}"></TextBox>
+                </StackPanel>
+            </StackPanel>
+            <Button Height="20" Margin="0, 3" Click="SaveBtn">Сохранить</Button>
+        </StackPanel>
+    </Grid>
+</Window>
