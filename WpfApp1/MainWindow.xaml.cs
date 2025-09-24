@@ -99,5 +99,26 @@ namespace WpfApp1
             DG.ItemsSource = PaymentsBaseEntities.GetContext().Payment.ToList();
             UpdateStats();
         }
+        
+        private void FromDate_OnSelectedDateChanged(object sender, SelectionChangedEventArgs e)
+        {
+            var context = PaymentsBaseEntities.GetContext();
+            var query = context.Payment.AsQueryable();
+
+            if (fromDate.SelectedDate != null)
+            {
+                var date = fromDate.SelectedDate;
+                query = query.Where(x => x.Date >= date);
+            }
+
+            if (toDate.SelectedDate != null)
+            {
+                var date = toDate.SelectedDate;
+                query = query.Where(x => x.Date <= date);
+            } 
+            
+            DG.ItemsSource = query.ToList();
+            UpdateStats();
+        }
     }
 }

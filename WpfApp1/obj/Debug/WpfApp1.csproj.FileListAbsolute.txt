@@ -17,6 +17,5 @@ C:\Users\tea\Desktop\Study\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileI
 C:\Users\tea\Desktop\Study\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
 C:\Users\tea\Desktop\Study\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
 C:\Users\tea\Desktop\Study\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
-C:\Users\tea\Desktop\Study\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe.config
 C:\Users\tea\Desktop\Study\WpfApp1\WpfApp1\obj\Debug\AddEditWindow.g.cs
 C:\Users\tea\Desktop\Study\WpfApp1\WpfApp1\obj\Debug\AddEditWindow.baml
