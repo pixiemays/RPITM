@@ -2,6 +2,7 @@
 using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
+using Excel = Microsoft.Office.Interop.Excel;
 
 namespace WpfApp1
 {
@@ -119,6 +120,19 @@ namespace WpfApp1
             
             DG.ItemsSource = query.ToList();
             UpdateStats();
+        }
+
+        private void excelImport_Click(object sender, RoutedEventArgs e)
+        {
+            Excel.Application app = new Excel.Application
+            {
+                Visible = true,
+                SheetsInNewWorkbook = 2
+            };
+            Excel.Workbook workbook = app.Workbooks.Add(Type.Missing);
+            app.DisplayAlerts = false;
+            Excel.Worksheet sheet = (Excel.Worksheet)app.Worksheets.get_Item(1);
+            sheet.Name = "qweqwe";
         }
     }
 }

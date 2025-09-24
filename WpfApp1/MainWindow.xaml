@@ -13,10 +13,11 @@
             <Button Content="Удалить" Click="Delete_OnClick" Width="100" Margin="0,0,5,0"/>
             <ComboBox x:Name="cbFIO" Width="130" Margin="0,0,5,0" SelectionChanged="applyFilters_SelectionChanged"/>
             <ComboBox x:Name="cbCat" Width="130" Margin="0,0,5,0" SelectionChanged="applyFilters_SelectionChanged"/>
+            <DatePicker x:Name="fromDate" Margin="0,0,5,0" SelectedDateChanged="FromDate_OnSelectedDateChanged"></DatePicker>
+            <DatePicker x:Name="toDate" Margin="0,0,5,0" SelectedDateChanged="FromDate_OnSelectedDateChanged"></DatePicker>
+            <Button x:Name="excelImport" Margin="0,0,5,0" Click="excelImport_Click">Excel</Button>
             <TextBlock x:Name="itemsCount" Margin="0,0,5,0" />
             <TextBlock Margin="0,0,5,0" x:Name="itemsSum" />
-            <DatePicker x:Name="fromDate" SelectedDateChanged="FromDate_OnSelectedDateChanged"></DatePicker>
-            <DatePicker x:Name="toDate" SelectedDateChanged="FromDate_OnSelectedDateChanged"></DatePicker>
         </StackPanel>
 
         <!-- Таблица -->

@@ -16,10 +16,10 @@
           <ScalarProperty Name="id" ColumnName="id" />
           <ScalarProperty Name="UserId" ColumnName="UserId" />
           <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
-          <ScalarProperty Name="Date" ColumnName="Date" />
           <ScalarProperty Name="Name" ColumnName="Name" />
-          <ScalarProperty Name="Num" ColumnName="Num" />
           <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Num" ColumnName="Num" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
