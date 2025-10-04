@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tea\\Desktop\\Study\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB27D6F1-48D5-4207-82C5-F1E40158D8FC}|WpfApp1\\WpfApp1.csproj|c:\\users\\tea\\desktop\\study\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CB27D6F1-48D5-4207-82C5-F1E40158D8FC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB27D6F1-48D5-4207-82C5-F1E40158D8FC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\tea\\Desktop\\Study\\WpfApp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB27D6F1-48D5-4207-82C5-F1E40158D8FC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB27D6F1-48D5-4207-82C5-F1E40158D8FC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\tea\\Desktop\\Study\\WpfApp1\\wpfapp1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB27D6F1-48D5-4207-82C5-F1E40158D8FC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB27D6F1-48D5-4207-82C5-F1E40158D8FC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\tea\\Desktop\\Study\\WpfApp1\\wpfapp1\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB27D6F1-48D5-4207-82C5-F1E40158D8FC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB27D6F1-48D5-4207-82C5-F1E40158D8FC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\tea\\Desktop\\Study\\WpfApp1\\wpfapp1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB27D6F1-48D5-4207-82C5-F1E40158D8FC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB27D6F1-48D5-4207-82C5-F1E40158D8FC}|WpfApp1\\WpfApp1.csproj|C:\\Users\\tea\\Desktop\\Study\\WpfApp1\\wpfapp1\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB27D6F1-48D5-4207-82C5-F1E40158D8FC}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tea\\Desktop\\Study\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\tea\\Desktop\\Study\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-01T03:51:39.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\tea\\Desktop\\Study\\WpfApp1\\WpfApp1\\User.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\User.cs",
+              "ToolTip": "C:\\Users\\tea\\Desktop\\Study\\WpfApp1\\WpfApp1\\User.cs",
+              "RelativeToolTip": "WpfApp1\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:50:47.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\tea\\Desktop\\Study\\WpfApp1\\WpfApp1\\Payment.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Payment.cs",
+              "ToolTip": "C:\\Users\\tea\\Desktop\\Study\\WpfApp1\\WpfApp1\\Payment.cs",
+              "RelativeToolTip": "WpfApp1\\Payment.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIA9wBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:49:38.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\tea\\Desktop\\Study\\WpfApp1\\WpfApp1\\Category.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Category.cs",
+              "ToolTip": "C:\\Users\\tea\\Desktop\\Study\\WpfApp1\\WpfApp1\\Category.cs",
+              "RelativeToolTip": "WpfApp1\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:49:23.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\tea\\Desktop\\Study\\WpfApp1\\WpfApp1\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\tea\\Desktop\\Study\\WpfApp1\\WpfApp1\\Model1.Context.cs",
+              "RelativeToolTip": "WpfApp1\\Model1.Context.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAywB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:48:13.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tea\\Desktop\\Study\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tea\\Desktop\\Study\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAhwGgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:30:15.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
